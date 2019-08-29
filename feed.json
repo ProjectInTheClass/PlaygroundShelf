@@ -20,11 +20,11 @@
 		 "value": "Hackerthon"
 		}
 	]
-	"publishedDate": "2019-08-29T09:00:00+09:00",
-	"lastUpdatedDate": "2019-08-29T12:30:00+09:00",
-	"thumbnailURL": "https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png",
-	"bannerImageURL": "https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png", 
-	"previewImageURLs": [
+	"publishedDate" : "2019-08-29T09:00:00+09:00",
+	"lastUpdatedDate" : "2019-08-29T12:30:00+09:00",
+	"thumbnailURL" : "https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png",
+	"bannerImageURL" : "https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png", 
+	"previewImageURLs" : [
 		"https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png"
 	]
 	}
