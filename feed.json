@@ -14,12 +14,15 @@
 	"contentIdentifier": "PlaygroundShelf.SwiftHighClass.TJBotKr",
 	"contentVersion": "1.0",
 	"url": "https://projectintheclass.github.io/PlaygroundShelf/TJBotKr/TJBot_kr.playgroundbook.zip",
+	"sha512": "9e6cd5d0673b7db9a52c523e4767408eb1eafc2ed79283176a03d93c5f5e24095ee8e1d12d06bdd79fde3c2c3c8f80b1b63714a3f2fa5466898ab3493c6b6f3e"
 	"additionalInformation": [
 		{
 		 "name": "Made for",
 		 "value": "Hackerthon"
 		}
 	], 
+	
+	
 	"publishedDate" : "2019-08-29T09:00:00+09:00",
 	"lastUpdatedDate" : "2019-08-29T12:30:00+09:00",
 	"thumbnailURL" : "https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png",
