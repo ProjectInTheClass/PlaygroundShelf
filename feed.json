@@ -1,1 +1,32 @@
-{"title": "SwiftHigh Class","publisherName": "CodersHigh","feedIdentifier": "PlaygroundShelf.SwiftHighClass","contactURL": "mailto:skyoon@codershigh.com","formatVersion": "1.0","documents": [	{	"title": "TJBotkr",	"overviewSubtitle": "TJBot 플레이그라운드의 비공식 한국어 버전",	"detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",	"description": "TJBot 플레이그라운드의 비공식 한국어 버전.",	"contentIdentifier": "PlaygroundShelf.SwiftHighClass.TJBotKr",	"contentVersion": "1.0",	"url": "https://projectintheclass.github.io/PlaygroundShelf/TJBotKr/TJBot_kr.playgroundbook.zip",	"additionalInformation": [		{		 "name": "Made for",		 "value": "경북해커톤"		}	]	"publishedDate": "2019-08-29T09:00:00+09:00",	"lastUpdatedDate": "2019-08-29T12:30:00+09:00",	"thumbnailURL": "TJBotKr/tjbot.png",	"bannerImageURL": "TJBotKr/tjbot.png", 	"previewImageURLs": [		"TJBotKr/tjbot.png"	]	}]}
+{
+"title": "SwiftHigh Class",
+"subtitle": "SwiftHigh Class",
+"publisherName": "CodersHigh",
+"feedIdentifier": "PlaygroundShelf.SwiftHighClass",
+"contactURL": "mailto:skyoon@codershigh.com",
+"formatVersion": "1.0",
+"documents": [
+	{
+	"title": "TJBotkr",
+	"overviewSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+	"detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+	"description": "Unofficial Korean version of TJBot playgroundbook.",
+	"contentIdentifier": "PlaygroundShelf.SwiftHighClass.TJBotKr",
+	"contentVersion": "1.0",
+	"url": "https://projectintheclass.github.io/PlaygroundShelf/TJBotKr/TJBot_kr.playgroundbook.zip",
+	"additionalInformation": [
+		{
+		 "name": "Made for",
+		 "value": "Hackerthon"
+		}
+	]
+	"publishedDate": "2019-08-29T09:00:00+09:00",
+	"lastUpdatedDate": "2019-08-29T12:30:00+09:00",
+	"thumbnailURL": "https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png?token=AAGUWDA3UNKWRYIYNA2MHKC5OE3DW",
+	"bannerImageURL": "https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png?token=AAGUWDA3UNKWRYIYNA2MHKC5OE3DW", 
+	"previewImageURLs": [
+		"https://raw.githubusercontent.com/ProjectInTheClass/PlaygroundShelf/master/TJBotKr/tjbot.png?token=AAGUWDA3UNKWRYIYNA2MHKC5OE3DW"
+	]
+	}
+]
+}
