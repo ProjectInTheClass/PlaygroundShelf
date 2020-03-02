@@ -1,6 +1,5 @@
 {
     "title": "SwiftHigh Class",
-    "subtitle": "SwiftHigh Class",
     "publisherName": "CodersHigh",
     "feedIdentifier": "PlaygroundShelf.SwiftHighClass",
     "contactURL": "mailto:skyoon@codershigh.com",
@@ -14,18 +13,18 @@
         "contentIdentifier": "PlaygroundShelf.SwiftHighClass.TJBotKr",
         "contentVersion": "1.0",
         "url": "https://projectintheclass.github.io/PlaygroundShelf/TJBotKr/TJBot_kr.playgroundbook.zip",
-        "additionalInformation": [
-            {
-             "name": "Made for",
-             "value": "Hackerthon"
-            }
-        ],
         "publishedDate" : "2019-08-29T09:00:00+09:00",
         "lastUpdatedDate" : "2019-08-29T12:30:00+09:00",
         "attributes": ["TJBot", "Raspberry pi", "bluetooth"],
         "thumbnailURL" : "TJBotKr/tjbot.png",
         "bannerImageURL" : "TJBotKr/bannerImage.png",
+        "additionalInformation": [
+            {
+             "name": "Languages",
+             "value": "Korean"
+            }
+        ],
         "previewImageURLs" : []
 	}
-]
+    ]
 }
