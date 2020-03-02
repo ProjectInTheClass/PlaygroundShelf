@@ -5,26 +5,26 @@
     "contactURL": "mailto:skyoon@codershigh.com",
     "formatVersion": "1.0",
     "documents": [
-	   {
-        "title": "TJBotkr",
-        "overviewSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
-        "detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
-        "description": "Unofficial Korean version of TJBot playgroundbook.",
-        "contentIdentifier": "io.github.SwiftHighClass.TJBotKr",
-        "contentVersion": "1.0",
-        "url": "https://projectintheclass.github.io/PlaygroundShelf/TJBotKr/TJBot_kr.playgroundbook.zip",
-        "publishedDate": "2019-08-29T09:00:00+09:00",
-        "lastUpdatedDate": "2019-08-29T12:30:00+09:00",
-        "attributes": ["TJBot", "Raspberry pi", "bluetooth"],
-        "thumbnailURL": "TJBotKr/thumbnail.png",
-        "bannerImageURL": "TJBotKr/bannerImage.png",
-        "additionalInformation": [
-            {
-             "name": "Languages",
-             "value": "Korean"
-            }
-        ],
-        "previewImageURLs": []
-	   }
+        {
+            "title": "TJBotkr",
+            "overviewSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+            "detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+            "description": "Unofficial Korean version of TJBot playgroundbook.",
+            "contentIdentifier": "io.github.SwiftHighClass.TJBotKr",
+            "contentVersion": "1.0",
+            "url": "https://projectintheclass.github.io/PlaygroundShelf/TJBotKr/TJBot_kr.playgroundbook.zip",
+            "publishedDate": "2019-08-29T09:00:00+09:00",
+            "lastUpdatedDate": "2019-08-29T12:30:00+09:00",
+            "attributes": ["TJBot", "Raspberry pi", "bluetooth"],
+            "thumbnailURL": "TJBotKr/thumbnail.png",
+            "bannerImageURL": "TJBotKr/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        }
     ]
 }
