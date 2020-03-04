@@ -1,7 +1,7 @@
 {
-    "title": "SwiftHigh Class",
+    "title": "CodersHigh Class",
     "publisherName": "CodersHigh",
-    "feedIdentifier": "io.github.projectintheclass.PlaygroundShelf",
+    "feedIdentifier": "com.CodersHigh.PlaygroundShelf",
     "contactURL": "skyoon@codershigh.com",
     "formatVersion": "1.2",
     "documents": [
@@ -10,9 +10,9 @@
             "overviewSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
             "detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
             "description": "Unofficial Korean version of TJBot playgroundbook.",
-            "contentIdentifier": "io.github.projectintheclass.PlaygroundShelf.TJBotKr",
+            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.TJBotKr",
             "contentVersion": "2.5",
-            "url": "https://projectintheclass.github.io/PlaygroundShelf/TJBotKr/TJBotKr.playgroundbook.zip",
+            "url": "https://codershigh.dscloud.biz/playground_books/TJBotKr.playgroundbook.zip",
             "publishedDate": "2019-08-29T09:00:00+09:00",
             "lastUpdatedDate": "2019-08-29T12:30:00+09:00",
             "thumbnailURL": "TJBotKr/thumbnail.png",
