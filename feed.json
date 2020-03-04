@@ -2,8 +2,8 @@
     "title": "SwiftHigh Class",
     "publisherName": "CodersHigh",
     "feedIdentifier": "com.CodersHigh.SwiftBookShelf",
-    "contactURL": "mailto:skyoon@codershigh.com",
-    "formatVersion": "1.01",
+    "contactURL": "skyoon@codershigh.com",
+    "formatVersion": "1.0",
     "documents": [
         {
             "title": "TJBotKr",
