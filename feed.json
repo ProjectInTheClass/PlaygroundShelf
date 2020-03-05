@@ -1,7 +1,7 @@
 {
     "title": "CodersHigh Class",
     "publisherName": "CodersHigh",
-    "feedIdentifier": "io.github.projectintheclass.PlaygroundShelf",
+    "feedIdentifier": "com.CodersHigh.PlaygroundShelf",
     "contactURL": "skyoon@codershigh.com",
     "formatVersion": "1.2",
     "documents": [
