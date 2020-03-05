@@ -25,6 +25,26 @@
                 }
             ],
             "previewImageURLs": []
+        }, {
+            "title": "ARLegarcy",
+            "overviewSubtitle": "Legarcy version of Argumented Realtiy playgroundbook.",
+            "detailSubtitle": "Legarcy version of Argumented Realtiy playgroundbook.",
+            "description": "Legarcy version of Argumented Realtiy playgroundbook.",
+            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.ARLegarcy",
+            "contentVersion": "1.0.4",
+            "url": "https://codershigh.dscloud.biz/playground_books/ARLegarcy.playgroundbook.zip",
+            "sha512": "5664d1aa232cee613a9adc64834c5a7d599368b0079d903914e649518b3adf8b61dfd88d701504eebb3be215bf4bcdc45e6b589a147a7d2dd64c8475088213ee",
+            "publishedDate": "2020-03-05T09:00:00+09:00",
+            "lastUpdatedDate": "2020-03-05T09:00:00+09:00",
+            "thumbnailURL": "ARLegarcy/thumbnail.png",
+            "bannerImageURL": "ARLegarcy/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
         }
     ]
 }
