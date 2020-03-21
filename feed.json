@@ -45,6 +45,26 @@
                 }
             ],
             "previewImageURLs": []
+        }, {
+            "title": "인트로 투 앱 데브",
+            "overviewSubtitle": "인트로 투 앱 데브 수업을 아이패드로 들을 수 있도록 하는 콘텐츠",
+            "detailSubtitle": "Legarcy version of Argumented Realtiy playgroundbook.",
+            "description": "Legarcy version of Argumented Realtiy playgroundbook.",
+            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.Intro-To-App-Dev",
+            "contentVersion": "1.0",
+            "url": "https://codershigh.dscloud.biz/playground_books/IntroToAppDev.playgroundbook.zip",
+            "sha512": "603be4ad4d67537a0c25be24a3e2ee5e4133ed0ed423ac2c17f4a05d3e0b01da371cef907e1f9fdee99d9e0822a65911baa2b014038b8dea76c4c1f8a719b338",
+            "publishedDate": "2020-03-21T09:00:00+09:00",
+            "lastUpdatedDate": "2020-03-21T09:00:00+09:00",
+            "thumbnailURL": "IntroToAppDev/thumbnail.png",
+            "bannerImageURL": "IntroToAppDev/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
         }
     ]
 }
