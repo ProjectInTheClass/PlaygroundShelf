@@ -6,18 +6,18 @@
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "TJBotKr",
-            "overviewSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
-            "detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
-            "description": "Unofficial Korean version of TJBot playgroundbook.",
-            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.TJBotKr",
-            "contentVersion": "2.5",
-            "url": "https://codershigh.dscloud.biz/playground_books/TJBotKr.playgroundbook.zip",
-            "sha512": "f15394e3a5c987acdf6eff8c8bde9f4a0b5f218aed4956d024dc9d8fc3735d23b7410482b67c70621e9f7fdf6a8da2eb4434911ccbe1f8c9bd7a33b6d6c3b7a7",
-            "publishedDate": "2019-08-29T09:00:00+09:00",
-            "lastUpdatedDate": "2019-08-29T12:30:00+09:00",
-            "thumbnailURL": "TJBotKr/thumbnail.png",
-            "bannerImageURL": "TJBotKr/bannerImage.png",
+            "title": "RecursiveMaster",
+            "overviewSubtitle": "Content to learn recursions",
+            "detailSubtitle": "This book is designed to expand the puzzle world so that recursive learning can be done.",
+            "description": "This book is designed to expand the puzzle world so that recursive learning can be done.",
+            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.RecursiveMaster",
+            "contentVersion": "1.0",
+            "url": "https://codershigh.dscloud.biz/playground_books/RecursiveMaster.playgroundbook.zip",
+            "sha512": "c6732f951350ef75152350badda2c800bc70cc588ba55a7e8c159ab0cb2ac3da7b78dc669a3ac32217caea83e2f278587a204ad3d7aa995ca33276b5abbe291d",
+            "publishedDate": "2021-07-05T09:00:00+09:00",
+            "lastUpdatedDate": "2021-07-05T09:00:00+09:00",
+            "thumbnailURL": "RecursiveMaster/thumbnail.png",
+            "bannerImageURL": "RecursiveMaster/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -26,6 +26,26 @@
             ],
             "previewImageURLs": []
         }, {
+            "title": "인트로 투 앱 데브",
+            "overviewSubtitle": "인트로 투 앱 데브 수업을 아이패드로 들을 수 있도록 하는 콘텐츠",
+            "detailSubtitle": "인트로 투 앱 데브 수업을 아이패드로 들을 수 있도록 하는 콘텐츠 입니다.",
+            "description": "인트로 투 앱 데브 수업을 아이패드로 들을 수 있도록 하는 콘텐츠 입니다.",
+            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.IntroToAppDev",
+            "contentVersion": "1.0",
+            "url": "https://codershigh.dscloud.biz/playground_books/IntroToAppDev.playgroundbook.zip",
+            "sha512": "13727fa77922bcdaeac84003613af0a707a3e7ba6f75fee1bb2c9020b1cb9cce8010b5806c60febdbdad0e8d57f79d1b8cc8ab8fea948eab596ede19868ebbeb",
+            "publishedDate": "2021-06-27T09:00:00+09:00",
+            "lastUpdatedDate": "2021-06-27T09:00:00+09:00",
+            "thumbnailURL": "IntroToAppDev/thumbnail.png",
+            "bannerImageURL": "IntroToAppDev/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        },{
             "title": "ARLegarcy",
             "overviewSubtitle": "Legarcy version of Argumented Realtiy playgroundbook.",
             "detailSubtitle": "Legarcy version of Argumented Realtiy playgroundbook.",
@@ -45,19 +65,19 @@
                 }
             ],
             "previewImageURLs": []
-        }, {
-            "title": "인트로 투 앱 데브",
-            "overviewSubtitle": "인트로 투 앱 데브 수업을 아이패드로 들을 수 있도록 하는 콘텐츠",
-            "detailSubtitle": "Legarcy version of Argumented Realtiy playgroundbook.",
-            "description": "Legarcy version of Argumented Realtiy playgroundbook.",
-            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.IntroToAppDev",
-            "contentVersion": "1.0",
-            "url": "https://codershigh.dscloud.biz/playground_books/IntroToAppDev.playgroundbook.zip",
-            "sha512": "13727fa77922bcdaeac84003613af0a707a3e7ba6f75fee1bb2c9020b1cb9cce8010b5806c60febdbdad0e8d57f79d1b8cc8ab8fea948eab596ede19868ebbeb",
-            "publishedDate": "2021-06-27T09:00:00+09:00",
-            "lastUpdatedDate": "2021-06-27T09:00:00+09:00",
-            "thumbnailURL": "IntroToAppDev/thumbnail.png",
-            "bannerImageURL": "IntroToAppDev/bannerImage.png",
+        },{
+            "title": "TJBotKr",
+            "overviewSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+            "detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+            "description": "Unofficial Korean version of TJBot playgroundbook.",
+            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.TJBotKr",
+            "contentVersion": "2.5",
+            "url": "https://codershigh.dscloud.biz/playground_books/TJBotKr.playgroundbook.zip",
+            "sha512": "f15394e3a5c987acdf6eff8c8bde9f4a0b5f218aed4956d024dc9d8fc3735d23b7410482b67c70621e9f7fdf6a8da2eb4434911ccbe1f8c9bd7a33b6d6c3b7a7",
+            "publishedDate": "2019-08-29T09:00:00+09:00",
+            "lastUpdatedDate": "2019-08-29T12:30:00+09:00",
+            "thumbnailURL": "TJBotKr/thumbnail.png",
+            "bannerImageURL": "TJBotKr/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
