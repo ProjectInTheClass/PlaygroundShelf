@@ -6,26 +6,6 @@
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "SwiftUI Prototyping",
-            "overviewSubtitle": "Content to learn SwiftUI",
-            "detailSubtitle": "SwiftUI을 사용하여 프로토타이핑을 하기 위한 PlaygroundBook",
-            "description": "이 책은 SwiftUI의 기초에 대해 학습하고 직접 앱 프롵토타이핑을 할 수 있도록 구성된 PlaygroundBook 입니다.",
-            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.SwiftUIPrototype",
-            "contentVersion": "1.0",
-            "url": "https://codershigh.dscloud.biz/playground_books/SwiftUI Prototyping Answer.playgroundbook.zip",
-            "sha512": "122eda16e7a3495c41d5e2cc6fef4f76949a6cbef513c44f3e4e7acc40a063f9855d87bdf9cf5625583e9f84796ff78abb29cc435a1a38b092d66e08053832fe",
-            "publishedDate": "2021-07-09T09:00:00+09:00",
-            "lastUpdatedDate": "2021-07-09T09:00:00+09:00",
-            "thumbnailURL": "SwiftUIPrototype/thumbnail.png",
-            "bannerImageURL": "SwiftUIPrototype/bannerImage.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": []
-        },{
             "title": "RecursiveMaster",
             "overviewSubtitle": "Content to learn recursions",
             "detailSubtitle": "This book is designed to expand the puzzle world so that recursive learning can be done.",
