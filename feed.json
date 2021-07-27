@@ -26,16 +26,16 @@
             ],
             "previewImageURLs": []
         }, {
-            "title": "RecursiveMaster",
-            "overviewSubtitle": "Content to learn recursions",
-            "detailSubtitle": "This book is designed to expand the puzzle world so that recursive learning can be done.",
-            "description": "This book is designed to expand the puzzle world so that recursive learning can be done.",
+            "title": "재귀마스터",
+            "overviewSubtitle": "재귀를 학습하기 위한 PlaygroundBook",
+            "detailSubtitle": "이 책은 재귀를 학습할 수 있도록 퍼즐 세계를 확장하여 만들어졌습니다.",
+            "description": "이 책은 재귀를 학습할 수 있도록 퍼즐 세계를 확장하여 만들어졌습니다.",
             "contentIdentifier": "com.CodersHigh.PlaygroundShelf.RecursiveMaster",
-            "contentVersion": "1.0",
+            "contentVersion": "1.1",
             "url": "https://codershigh.dscloud.biz/playground_books/RecursiveMaster.playgroundbook.zip",
-            "sha512": "989c6c8e0f4e42d4779294633f20c98880a356f03b8950569a9bf215320c8f976a5109c41853ee8b1e76c3cfa8a801be0c808bff4f70c163e39a6077ada37e37",
+            "sha512": "1e21d3285e4d444c7b92938863709497f7ae514dc3e727441cce33978daa4bad9027ff3363a5292729ed3bc5ee86e75b453a80c00899a8151182ece32c125d92",
             "publishedDate": "2021-07-05T09:00:00+09:00",
-            "lastUpdatedDate": "2021-07-05T09:00:00+09:00",
+            "lastUpdatedDate": "2021-07-26T17:00:00+09:00",
             "thumbnailURL": "RecursiveMaster/thumbnail.png",
             "bannerImageURL": "RecursiveMaster/bannerImage.png",
             "additionalInformation": [
