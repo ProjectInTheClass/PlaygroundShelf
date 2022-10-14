@@ -126,6 +126,26 @@
                 }
             ],
             "previewImageURLs": []
+        },
+        {
+            "title": "MachineLearningBook",
+            "overviewSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+            "detailSubtitle": "Unofficial Korean version of TJBot playgroundbook.",
+            "description": "Unofficial Korean version of TJBot playgroundbook.",
+            "contentIdentifier": "com.CodersHigh.PlaygroundShelf.TJBotKr",
+            "contentVersion": "2.5",
+            "url": "https://codershigh.dscloud.biz/playground_books/MachineLearningBook.playgroundbook.zip",
+            "publishedDate": "2019-08-29T09:00:00+09:00",
+            "lastUpdatedDate": "2019-08-29T12:30:00+09:00",
+            "thumbnailURL": "TJBotKr/thumbnail.png",
+            "bannerImageURL": "TJBotKr/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
         }
     ]
 }
